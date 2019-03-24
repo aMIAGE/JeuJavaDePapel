@@ -41,7 +41,11 @@ public class Etape {
 	/**
 	 * Une reference vers une instance de Timer.
 	 */
-	private Timer timer;
+	private Timer timer;	
+	/**
+	 * Une reference vers une instance de Creuser.
+	 */
+	private Creuser creuse;
 	
 	
 	/**
@@ -55,6 +59,10 @@ public class Etape {
 		this.numEtape = Integer.parseInt(etape.get(1));
 		this.enigme = enigme;
 		this.creuser = creuser;
+		
+		if(creuser) {
+			this.creuse = new Creuser();
+		}
 	}
 	
 	/**
