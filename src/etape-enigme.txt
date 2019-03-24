@@ -1,0 +1,69 @@
+5 : directeur
+Quel est le numero manquant ?
+7
+src/images/sudoku1.jpg
+
+
+1 : gardien
+Quel est le prenom de la deleguee de la classe ?
+Elodie
+src/images/qui.jpg
+
+8 : gardien
+Quel est le 5ieme nombre premier ?
+11
+src/images/enigme.jpg
+
+
+2 : guichet
+Que signifie le M de "UML" ?
+modeling
+src/images/enigme.jpg
+
+0 : entree
+Chiffrez le mot MIAGE a l aide du tableau
+139175
+src/images/alphabetchiffre.jpg
+
+4 : entree
+Quel est le prenom du delegue de la classe?
+Khaled
+src/images/qui.jpg
+
+6 : reserve
+Donnez le chiffre manquant : 0-1-1-2-3-5-__-13-21
+8
+src/images/enigme.jpg
+
+3 : attente
+Quel est le NOM du directeur de la MIAGE ?
+CAUSSANEL
+src/images/qui.jpg
+
+9 : coffres creuser
+11 : coffres creuser
+13 : coffres creuser
+15 : coffres enigme
+Aimez vous notre jeu ?
+Oui
+src/images/enigme.jpg
+
+7 : imprimerie
+Combien y a t il de carres ?
+40
+src/images/carres.jpg
+
+10 : imprimerie
+En java tout est ... Donnez la lettre correspondante
+b
+src/images/objet.jpg
+
+12 : imprimerie
+Quel est le domino manquant ?
+C
+src/images/dominos.jpg
+
+14 : imprimerie
+Quel est le domino manquant ?
+C
+src/images/dominos.jpg
